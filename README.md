@@ -1,4 +1,4 @@
-# 🍛 foodie Shop
+# 🍛 foodie Website
 
 A modern and responsive **restaurant website** built with **React, Vite, Tailwind CSS**, and **AOS animations**.  
 The project showcases a Biryani Shop with sections like **Hero, Services, App Store Promotion, Testimonials, and Footer**.
