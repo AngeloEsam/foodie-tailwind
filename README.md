@@ -26,8 +26,8 @@ The project showcases a Biryani Shop with sections like **Hero, Services, App St
 ### 📁 Clone the repository
 
 ```bash
-git clone https://github.com/your-username/admin-dashboard.git
-cd admin-dashboard
+git clone https://github.com/AngeloEsam/foodie-tailwind.git
+cd foodie-tailwind
 --
 
 ##  Run project
