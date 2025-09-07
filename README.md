@@ -6,7 +6,7 @@ The project showcases a Biryani Shop with sections like **Hero, Services, App St
 ---
 
 ## 🚀 Live Demo 
-[🔗 View Live](https://dashboard-react-js-flax.vercel.app/)
+[🔗 View Live](https://foodie-tailwind-five.vercel.app/)
 
 ---
 
