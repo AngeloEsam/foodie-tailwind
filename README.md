@@ -1,9 +1,35 @@
-Enjoy the Free code + Assets 😍
-- Support us on YouTube Channel: [https://www.youtube.com/channel/UC1H-a1MKEFXRiFlGNLcy7gQ](https://www.youtube.com/@TheCodingJourney)
+# 🍛 foodie Shop
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive **restaurant website** built with **React, Vite, Tailwind CSS**, and **AOS animations**.  
+The project showcases a Biryani Shop with sections like **Hero, Services, App Store Promotion, Testimonials, and Footer**.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Live Demo 
+[🔗 View Live](https://dashboard-react-js-flax.vercel.app/)
+
+---
+
+## 🚀 Features
+
+- ⚡ **Fast & Modern**: Built with Vite + React 18  
+- 🎨 **Tailwind CSS**: Fully responsive design with dark mode support  
+- ✨ **Smooth Animations**: Integrated [AOS](https://michalsnik.github.io/aos/) library for scroll animations  
+- ⭐ **Customer Reviews**: Showcasing testimonials with star ratings  
+- 📱 **App Store Section**: Promote mobile app availability  
+- 🖼️ **Carousels & Sliders**: Using `react-slick` and `slick-carousel`  
+
+---
+
+## 🚀 Getting Started
+
+### 📁 Clone the repository
+
+```bash
+git clone https://github.com/your-username/admin-dashboard.git
+cd admin-dashboard
+--
+
+##  Run project
+npm install
+npm run dev
